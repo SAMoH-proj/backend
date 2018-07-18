@@ -1,12 +1,14 @@
 Backend
 =======
 
-Extremely lightweight web backend based on COBWEB project's [PCAPI](https://github.com/cobweb-eu/pcapi)
+This is a fork of the [lightweight backend](https://github.com/xmichael/backend) project to provide Landsat and Sentinel indexing support and to exposes OpenDataCube-backed functionality.
+
+The original service is based on COBWEB project's [PCAPI](https://github.com/cobweb-eu/pcapi)
 
 Installation
 ------------
 
-1. `pip install --user git+https://github.com/xmichael/backend.git`
+1. `pip install --user git+https://github.com/SAMoH-proj/backend.git`
 2. `backend`
 
 Alternatively, one can use a WSGI server e.g. apache's mod_wsgi using *backend/server.py* as the point of entry.
@@ -51,3 +53,6 @@ License
 -------
 
 [Modified BSD](./LICENSE)
+
+
+See also individual file contents for additional copyrights.

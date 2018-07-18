@@ -1,1 +1,1 @@
-__all__ = ["spatialite"]
+__all__ = ["landsat", "sentinel", "spatialite"]
