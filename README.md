@@ -1,7 +1,7 @@
 Backend
 =======
 
-This is a fork of the [lightweight backend](https://github.com/xmichael/backend) project to provide Landsat and Sentinel indexing support and to exposes OpenDataCube-backed functionality.
+This is a fork of the [lightweight backend](https://github.com/xmichael/backend) project to provide Landsat and Sentinel indexing support and to expose OpenDataCube-backed functionality.
 
 The original service is based on COBWEB project's [PCAPI](https://github.com/cobweb-eu/pcapi)
 
